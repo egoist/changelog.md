@@ -1,0 +1,29 @@
+#!/usr/bin/env node
+'use strict'
+const cac = require('cac')
+const inquirer = require('inquirer')
+const co = require('co')
+const chalk = require('chalk')
+const update = require('update-notifier')
+const main = require('../lib')
+const log = require('../lib/log')
+
+const cli = cac()
+
+cli.command('*', 'Create or update your CHANGELOG.md', (input, flags) => {
+  return main(Object.assign({
+    inputVersion: input[0]
+  }, flags))
+})
+
+cli.onError(err => {
+  if (err.name === 'AppError') {
+    log.error(err.message)
+  } else {
+    console.log(err.stack)
+  }
+  process.exit(1)
+})
+
+update({pkg: cli.pkg}).notify()
+cli.parse()
