@@ -54,9 +54,11 @@ You can also use format like `type: message` to pre-define commit type, they wil
 |test|add missing tests|ignore||
 |breaking|introduce breaking changes|major|minor|
 |perf|performance improvements|patch||
-|tweaks|don't know how to describe|patch||
+|tweaks|don't know how to describe|ignore||
 
 **Note**: in 0.y.z versions, major changes will affect `y`, other changes and patches will affect `z`. So in such situation you can never reach `1.0.0` do you? Then just explicitly specific the version for your next release, like: `changelog 1.0.0`
+
+For `tweaks: message`, a message with only `tweaks` or `tweak` will also be ignored.
 
 You don't have to use these types in your commit message since you can set them one by one when actually running `changelog` (only for CHANGELOG.md, will not update the commit itself).
 
