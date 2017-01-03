@@ -58,6 +58,8 @@ You can also use format like `type: message` to pre-define commit type, they wil
 
 **Note**: in 0.y.z versions, major changes will affect `y`, other changes and patches will affect `z`. So in such situation you can never reach `1.0.0` do you? Then just explicitly specific the version for your next release, like: `changelog 1.0.0`
 
+You don't have to use these types in your commit message since you can set them one by one when actually running `changelog` (only for CHANGELOG.md, will not update the commit itself).
+
 ### Work with npm publish
 
 ```bash
