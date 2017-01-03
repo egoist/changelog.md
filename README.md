@@ -45,7 +45,7 @@ Besides choosing `ignore` in prompts to exclude commits in changelog, the commit
 
 ```bash
 # made some changes to your code...
-$ git add -am "change the world"
+$ git commit -am "change the world"
 $ npm test
 $ changelog
 $ git push --follow-tags
