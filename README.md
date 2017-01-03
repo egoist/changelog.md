@@ -66,7 +66,7 @@ You don't have to use these types in your commit message since you can set them 
 
 ```bash
 # made some changes to your code...
-$ git commit -am "change the world"
+$ git commit -am "feat: change the world"
 $ npm test
 $ changelog
 $ git push --follow-tags
