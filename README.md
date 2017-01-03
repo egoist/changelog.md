@@ -54,6 +54,12 @@ $ git push --follow-tags
 $ npm publish
 ```
 
+## Projects using this
+
+- [SAO](https://github.com/egoist/sao): ⚔️ Futuristic scaffolding tool.
+- [docute](https://github.com/egoist/docute): 📜 Effortlessly documentation done right.
+- welcome to add your project here...
+
 ## Contributing
 
 1. Fork it!
