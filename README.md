@@ -39,7 +39,7 @@ $ changelog
 - major: Introducing breaking changes
 - ignore: Do not include this commit in changelog
 
-Besides choosing `ignore` in prompts to exclude commits in changelog, the commit message that starts with `[skip]` `[ignore]` `[skip $foo]` `[ignore $foo]` will also be excluded.
+Besides choosing `ignore` in prompts to exclude commits from changelog, the commit message that starts with `[skip]` `[ignore]` `[skip $foo]` `[ignore $foo]` will also be excluded.
 
 ### Work with npm publish
 
