@@ -41,6 +41,8 @@ $ changelog
 
 Besides choosing `ignore` in prompts to exclude commits from changelog, the commit message that starts with `[skip]` `[ignore]` `[skip $foo]` `[ignore $foo]` will also be excluded.
 
+You can also use format like `[$type] message` to pre-define commit type.
+
 ### Work with npm publish
 
 ```bash
