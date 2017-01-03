@@ -1,3 +1,11 @@
+## [Version 0.2.0](https://github.com/egoist/changelog.md/releases/tag/v0.2.0) (2017-1-3)
+
+### Minor Changes
+
+- Auto infer commit type: [`0ad25c1`](https://github.com/egoist/changelog.md/commit/0ad25c1)
+
+[...full changes](https://github.com/egoist/changelog.md/compare/v0.1.1...v0.2.0)
+
 ## [Version 0.1.1](https://github.com/egoist/changelog.md/releases/tag/v0.1.1) (2017-1-3)
 
 ### Patches
