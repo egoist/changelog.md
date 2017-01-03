@@ -1,3 +1,23 @@
+## [Version 0.3.0](https://github.com/egoist/changelog.md/releases/tag/v0.3.0) (2017-1-3)
+
+### Major Changes
+
+- recognize semantic commit type: [`95231d7`](https://github.com/egoist/changelog.md/commit/95231d7)
+
+### Minor Changes
+
+- ignore tweaks: [`e046cd5`](https://github.com/egoist/changelog.md/commit/e046cd5)
+
+### Patches
+
+- support more types: [`66f15fb`](https://github.com/egoist/changelog.md/commit/66f15fb)
+- support commit type in commit subject: [`fd41c6b`](https://github.com/egoist/changelog.md/commit/fd41c6b)
+- return type directly: [`4e3e309`](https://github.com/egoist/changelog.md/commit/4e3e309)
+- tweaks: [`33b96b3`](https://github.com/egoist/changelog.md/commit/33b96b3)
+- tweaks should be patch: [`69c0fc9`](https://github.com/egoist/changelog.md/commit/69c0fc9)
+
+[...full changes](https://github.com/egoist/changelog.md/compare/v0.2.0...v0.3.0)
+
 ## [Version 0.2.0](https://github.com/egoist/changelog.md/releases/tag/v0.2.0) (2017-1-3)
 
 ### Minor Changes
