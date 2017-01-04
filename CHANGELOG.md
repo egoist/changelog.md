@@ -1,3 +1,11 @@
+## [Version 0.3.2](https://github.com/egoist/changelog.md/releases/tag/v0.3.2) (2017-1-4)
+
+### Minor Changes
+
+- support format "type(scope): subject": [`418810f`](https://github.com/egoist/changelog.md/commit/418810f)
+
+[...full changes](https://github.com/egoist/changelog.md/compare/v0.3.1...v0.3.2)
+
 ## [Version 0.3.1](https://github.com/egoist/changelog.md/releases/tag/v0.3.1) (2017-1-4)
 
 ### Minor Changes
