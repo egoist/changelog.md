@@ -1,3 +1,11 @@
+## [Version 0.3.1](https://github.com/egoist/changelog.md/releases/tag/v0.3.1) (2017-1-4)
+
+### Minor Changes
+
+- ensure git before running changelog, closed #9: [`a6e3993`](https://github.com/egoist/changelog.md/commit/a6e3993)
+
+[...full changes](https://github.com/egoist/changelog.md/compare/v0.3.0...v0.3.1)
+
 ## [Version 0.3.0](https://github.com/egoist/changelog.md/releases/tag/v0.3.0) (2017-1-3)
 
 ### Major Changes
