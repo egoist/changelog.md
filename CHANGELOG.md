@@ -3,7 +3,7 @@
 ### Minor Changes
 
 - tweak cli prompts: [`f95d6cf`](https://github.com/egoist/changelog.md/commit/f95d6cf)
-- Reference Issues and PRs, closed[#10](https://github.com/egoist/changelog.md/issues/10): [`52c9719`](https://github.com/egoist/changelog.md/commit/52c9719)
+- Reference Issues and PRs, closed [#10](https://github.com/egoist/changelog.md/issues/10): [`52c9719`](https://github.com/egoist/changelog.md/commit/52c9719)
 
 [...full changes](https://github.com/egoist/changelog.md/compare/v0.3.2...v0.3.3)
 
