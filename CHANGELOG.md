@@ -1,3 +1,11 @@
+## [Version 1.0.0](https://github.com/egoist/changelog.md/releases/tag/v1.0.0) (2017-1-8)
+
+### Patches
+
+- tweak issue id regexp: [`bd51b10`](https://github.com/egoist/changelog.md/commit/bd51b10)
+
+[...full changes](https://github.com/egoist/changelog.md/compare/v0.3.3...v1.0.0)
+
 ## [Version 0.3.3](https://github.com/egoist/changelog.md/releases/tag/v0.3.3) (2017-1-8)
 
 ### Minor Changes
