@@ -1,4 +1,6 @@
 self.$config = {
+  repo: 'egoist/changelog.md',
+  twitter: 'rem_rin_rin',
   nav: [
     {
       title: 'Home',
