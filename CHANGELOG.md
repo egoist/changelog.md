@@ -1,3 +1,12 @@
+## [Version 0.3.3](https://github.com/egoist/changelog.md/releases/tag/v0.3.3) (2017-1-8)
+
+### Minor Changes
+
+- tweak cli prompts: [`f95d6cf`](https://github.com/egoist/changelog.md/commit/f95d6cf)
+- Reference Issues and PRs, closed[#10](https://github.com/egoist/changelog.md/issues/10): [`52c9719`](https://github.com/egoist/changelog.md/commit/52c9719)
+
+[...full changes](https://github.com/egoist/changelog.md/compare/v0.3.2...v0.3.3)
+
 ## [Version 0.3.2](https://github.com/egoist/changelog.md/releases/tag/v0.3.2) (2017-1-4)
 
 ### Minor Changes
