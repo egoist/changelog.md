@@ -11,8 +11,6 @@
 
 [...full changes](https://github.com/egoist/changelog.md/compare/v1.0.0...v1.1.0)
 
-## [Version 1.1.0](https://github.com/egoist/changelog.md/releases/tag/v1.1.0) (2017-2-14)
-
 ## [Version 1.0.0](https://github.com/egoist/changelog.md/releases/tag/v1.0.0) (2017-1-8)
 
 ### Patches
